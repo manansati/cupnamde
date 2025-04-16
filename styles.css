@@ -14,7 +14,7 @@ body {
   #gameArea {
     position: relative;
     width: 400px;
-    height: 800px;
+    height: 700px;
     margin: auto;
     background-color: #ddd;
     border: 3px solid #333;
